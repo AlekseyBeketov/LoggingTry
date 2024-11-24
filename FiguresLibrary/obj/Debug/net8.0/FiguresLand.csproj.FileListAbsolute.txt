@@ -1,0 +1,12 @@
+D:\Sources\ML Start\Task_1_Logging\FiguresLibrary\bin\Debug\net8.0\FiguresLand.deps.json
+D:\Sources\ML Start\Task_1_Logging\FiguresLibrary\bin\Debug\net8.0\FiguresLand.dll
+D:\Sources\ML Start\Task_1_Logging\FiguresLibrary\bin\Debug\net8.0\FiguresLand.pdb
+D:\Sources\ML Start\Task_1_Logging\FiguresLibrary\obj\Debug\net8.0\FiguresLand.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sources\ML Start\Task_1_Logging\FiguresLibrary\obj\Debug\net8.0\FiguresLand.AssemblyInfoInputs.cache
+D:\Sources\ML Start\Task_1_Logging\FiguresLibrary\obj\Debug\net8.0\FiguresLand.AssemblyInfo.cs
+D:\Sources\ML Start\Task_1_Logging\FiguresLibrary\obj\Debug\net8.0\FiguresLand.csproj.CoreCompileInputs.cache
+D:\Sources\ML Start\Task_1_Logging\FiguresLibrary\obj\Debug\net8.0\FiguresLand.sourcelink.json
+D:\Sources\ML Start\Task_1_Logging\FiguresLibrary\obj\Debug\net8.0\FiguresLand.dll
+D:\Sources\ML Start\Task_1_Logging\FiguresLibrary\obj\Debug\net8.0\refint\FiguresLand.dll
+D:\Sources\ML Start\Task_1_Logging\FiguresLibrary\obj\Debug\net8.0\FiguresLand.pdb
+D:\Sources\ML Start\Task_1_Logging\FiguresLibrary\obj\Debug\net8.0\ref\FiguresLand.dll

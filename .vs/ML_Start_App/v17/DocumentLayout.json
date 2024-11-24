@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sources\\ML Start\\Task_1_Logging\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2508CF09-BB7E-4B86-9B01-C53DCC357C1F}|ML_Start_App\\ML_Start_App.csproj|d:\\sources\\ml start\\task_1_logging\\ml_start_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2508CF09-BB7E-4B86-9B01-C53DCC357C1F}|ML_Start_App\\ML_Start_App.csproj|solutionrelative:ml_start_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Sources\\ML Start\\Task_1_Logging\\Task_1_Logging\\ML_Start_App.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_1_Logging\\ML_Start_App.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Sources\\ML Start\\Task_1_Logging\\Task_1_Logging\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_1_Logging\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sources\\ML Start\\Task_1_Logging\\ML_Start_App\\Program.cs",
+              "RelativeDocumentMoniker": "ML_Start_App\\Program.cs",
+              "ToolTip": "D:\\Sources\\ML Start\\Task_1_Logging\\ML_Start_App\\Program.cs",
+              "RelativeToolTip": "ML_Start_App\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:50:17.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ML_Start_App.csproj",
+              "DocumentMoniker": "D:\\Sources\\ML Start\\Task_1_Logging\\Task_1_Logging\\ML_Start_App.csproj",
+              "RelativeDocumentMoniker": "Task_1_Logging\\ML_Start_App.csproj",
+              "ToolTip": "D:\\Sources\\ML Start\\Task_1_Logging\\Task_1_Logging\\ML_Start_App.csproj",
+              "RelativeToolTip": "Task_1_Logging\\ML_Start_App.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T09:40:18.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sources\\ML Start\\Task_1_Logging\\Task_1_Logging\\Program.cs",
+              "RelativeDocumentMoniker": "Task_1_Logging\\Program.cs",
+              "ToolTip": "D:\\Sources\\ML Start\\Task_1_Logging\\Task_1_Logging\\Program.cs",
+              "RelativeToolTip": "Task_1_Logging\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:29:07.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
